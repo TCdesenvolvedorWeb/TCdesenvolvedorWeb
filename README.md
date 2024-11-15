@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev Tadeu 😁
+## Bem-vindo(a) ao perfil do Dev Tadeu 😎
 
  <div>
    <a href="https://github.com/TCdesenvolvedorWeb">
